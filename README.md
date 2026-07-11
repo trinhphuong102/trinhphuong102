@@ -13,9 +13,10 @@ I am a 3rd-year student at Ho Chi Minh City University of Science (HCMUS), compl
 * **[Digital IC Design Projects](https://github.com/trinhphuong102/Digital-IC-Design-Projects):** A comprehensive collection of fundamental logic modules (Half/Full Adders, Parameterized N-bit Ripple Carry Adder). This repository highlights my structural modeling mindset and ability to perform static timing analysis (STA).
 
 ### 🌱 Currently Exploring
-- Advanced sequential logic design (FSMs, Shift Registers).
-- Deepening my knowledge in SystemVerilog for robust verification environments.
-
+- **Computer Architecture:** Researching and studying the **RISC-V** instruction set and microarchitecture.
+- **Hardware Protocols:** Diving into standard communication protocols commonly used in digital systems.
+- **Advanced Verification:** Deepening my knowledge of **SystemVerilog** to build more robust and complex verification environments.
+- 🚀 **Upcoming Projects:** Preparing the RTL design for a complex **Arithmetic Logic Unit (ALU)** and integrating it into a fully functional **Digital Calculator**.
 ### 📫 Let's Connect
 - **Email:** tantrinhvl@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/jfe-trink-6ba645381/]
