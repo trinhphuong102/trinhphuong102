@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Trinh! 👋 
 
-<!--
-**trinhphuong102/trinhphuong102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Digital IC Design Engineer
+I am a 3rd-year student at Ho Chi Minh City University of Science (HCMUS), completely dedicated to the Front-end Digital IC Design flow. My primary focus is on RTL coding, logic synthesis, and hardware verification. 
 
-Here are some ideas to get you started:
+### 🛠️ Technical Skills
+- **Hardware Description Languages:** Verilog HDL, SystemVerilog
+- **Simulation & Verification:** Automated self-checking testbenches, Randomized testing
+- **EDA Tools:** Intel Quartus Prime, Icarus Verilog, GTKWave, EDA Playground
+- **Version Control & Documentation:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Portfolio
+* **[Digital IC Design Projects](https://github.com/trinhphuong102/Digital-IC-Design-Projects):** A comprehensive collection of fundamental logic modules (Half/Full Adders, Parameterized N-bit Ripple Carry Adder). This repository highlights my structural modeling mindset and ability to perform static timing analysis (STA).
+
+### 🌱 Currently Exploring
+- Advanced sequential logic design (FSMs, Shift Registers).
+- Deepening my knowledge in SystemVerilog for robust verification environments.
+
+### 📫 Let's Connect
+- **Email:** tantrinhvl@gmail.com
+- **LinkedIn:** [Insert your LinkedIn link here]
