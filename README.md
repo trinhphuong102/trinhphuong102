@@ -16,7 +16,7 @@ I am a 3rd-year student at Ho Chi Minh City University of Science (HCMUS), compl
 - **Computer Architecture:** Researching and studying the **RISC-V** instruction set and microarchitecture.
 - **Hardware Protocols:** Diving into standard communication protocols commonly used in digital systems.
 - **Advanced Verification:** Deepening my knowledge of **SystemVerilog** to build more robust and complex verification environments.
-- 🚀 **Upcoming Projects:** Preparing the RTL design for a complex **Arithmetic Logic Unit (ALU)** and integrating it into a fully functional **Digital Calculator**.
+- **Upcoming Projects:** Preparing the RTL design for a complex **Arithmetic Logic Unit (ALU)** and integrating it into a fully functional **Digital Calculator**.
 ### 📫 Let's Connect
 - **Email:** tantrinhvl@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/jfe-trink-6ba645381/]
