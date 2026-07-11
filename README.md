@@ -18,4 +18,4 @@ I am a 3rd-year student at Ho Chi Minh City University of Science (HCMUS), compl
 
 ### 📫 Let's Connect
 - **Email:** tantrinhvl@gmail.com
-- **LinkedIn:** [Insert your LinkedIn link here]
+- **LinkedIn:** [https://www.linkedin.com/in/jfe-trink-6ba645381/]
