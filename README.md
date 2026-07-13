@@ -19,4 +19,4 @@ I am a 3rd-year student at Ho Chi Minh City University of Science (HCMUS), compl
 - **Upcoming Projects:** Preparing the RTL design for a complex **Arithmetic Logic Unit (ALU)** and integrating it into a fully functional **Digital Calculator**.
 ### 📫 Let's Connect
 - **Email:** tantrinhvl@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/jfe-trink-6ba645381/]
+- **LinkedIn:** https://www.linkedin.com/in/jfe-trink-6ba645381
