@@ -11,7 +11,7 @@ My current focus is on RTL design using Verilog, functional verification using S
 ### 🛠️ Technical Skills
 
 - **Hardware Description Languages:** Verilog HDL, SystemVerilog
-- **Simulation & Verification:** Self-checking testbenches, Randomized testing, Functional verification
+- **Simulation & Verification:** Directed testing, Randomized testing, Functional verification
 - **EDA Tools:** Intel Quartus Prime, ModelSim, Icarus Verilog, GTKWave, EDA Playground
 - **Design & Analysis:** RTL Design, Logic Synthesis, Static Timing Analysis (STA)
 - **Version Control & Documentation:** Git, GitHub
