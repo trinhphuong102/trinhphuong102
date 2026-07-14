@@ -6,6 +6,8 @@ I am a 3rd-year Electronics and Telecommunications student at Ho Chi Minh City U
 
 My current focus is on RTL design using Verilog, functional verification using SystemVerilog, logic synthesis, and timing analysis. I enjoy building digital hardware projects from specification to verification while continuously expanding my knowledge of computer architecture and digital system design.
 
+Open to Internship Opportunities and always eager to learn new technologies.
+
 ---
 
 ### 🛠️ Technical Skills
