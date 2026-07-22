@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Digital IC Design Engineer
 
-I am a 3rd-year Electronics Engineering student at Ho Chi Minh City University of Science (HCMUS) with a strict specialization in Front-End Digital IC Design.
+I am a final-year Electronics Engineering student at Ho Chi Minh City University of Science (HCMUS) with a strict specialization in Front-End Digital IC Design.
 
 My core focus is on RTL architecture using Verilog/SystemVerilog, automated hardware verification methodologies, logic synthesis, and static timing analysis. I enjoy building digital hardware projects from specification to exhaustive verification while continuously expanding my knowledge of EDA tools and digital system design.
 
